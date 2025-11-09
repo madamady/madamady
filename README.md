@@ -3,7 +3,7 @@
 
 Reach me at
 
-<a href="madallina.vieriu@gmail.com" target="_blank"><img style="margin: 10px" src="https://www.uniba.it/it/immagini/mail-logo.png/@@images/image.png" alt="mail" height="50" /></a> 
+<a href="mailto:madallina.vieriu@gmail.com" target="_blank"><img style="margin: 10px" src="https://www.uniba.it/it/immagini/mail-logo.png/@@images/image.png" alt="mail" height="50" /></a> 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/madalyna.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magdalinav) 
